@@ -118,6 +118,7 @@ Compliance efforts will target:
 - **Enforce administrative procedures** like separation of duties and a disaster recovery plan.
 
 ----
+## 🚀 Project Status
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) ![Focus](https://img.shields.io/badge/Focus-Controls--Assessment-yellow) ![Compliance](https://img.shields.io/badge/Compliance-GDPR-critical) ![Compliance](https://img.shields.io/badge/Compliance-PCI--DSS-critical)
 
