@@ -1,8 +1,13 @@
-#   Controls and Compliance Checklist - Botium Toys
+#   Controls and Compliance Checklist
 
-## Scope and Goals: 
+## Scenario:
 
-**Scope:** For fictitious Botium Toys, this project focuses on implementing missing critical security controls and addressing non-compliant areas identified in their [Scope, Goals, and Risk Assessment Report](https://docs.google.com/document/d/161ZO0O4TM9Kef5BMtyahWzCd67Qxe7mPEWk2Yj0GT-g/edit?usp=sharing). 
+*This scenario is based on a fictional company:*
+
+Botium Toys, a growing U.S. toy company with expanding online sales both domestically and internationally, faces increasing pressure on its IT department. To address compliance concerns (online payments, EU regulations) and secure its infrastructure against growing risks, the IT Manager has initiated an internal audit based on the NIST CSF. The audit aims to identify and mitigate vulnerabilities to critical assets and understand potential risks and fines.
+
+### Task
+This activity focuses on implementing missing critical security controls and addressing non-compliant areas identified in their [Scope, Goals, and Risk Assessment Report](https://docs.google.com/document/d/161ZO0O4TM9Kef5BMtyahWzCd67Qxe7mPEWk2Yj0GT-g/edit?usp=sharing). 
 
 Compliance efforts will target:
 
@@ -10,7 +15,7 @@ Compliance efforts will target:
 * **GDPR:** EU customer data privacy and security measures.
 * **SOC:** User access policies and sensitive data protection.
 
-**Goals:**
+### Goals
 
 1.  Implement foundational missing security controls.
 2.  Address immediate non-compliance with PCI DSS and GDPR.
@@ -116,12 +121,6 @@ Compliance efforts will target:
 - **Enhance technical infrastructure** with IDS, regular backups, and password management systems.
 - **Comply with applicable standards** (PCI DSS, GDPR) due to the handling of sensitive customer data.
 - **Enforce administrative procedures** like separation of duties and a disaster recovery plan.
-
-----
-## 🚀 Project Status
-
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen) ![Focus](https://img.shields.io/badge/Focus-Controls--Assessment-yellow) ![Compliance](https://img.shields.io/badge/Compliance-GDPR-critical) ![Compliance](https://img.shields.io/badge/Compliance-PCI--DSS-critical)
-
 
 ---
 > *“Security is not a product, but a process.”* – Bruce Schneier
